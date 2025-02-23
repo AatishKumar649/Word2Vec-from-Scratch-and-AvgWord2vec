@@ -1,0 +1,1 @@
+# Word2Vec-from-Scratch-and-AvgWord2vec
